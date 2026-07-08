@@ -245,7 +245,7 @@ def cartel_veterinaria():
 
 #programa principal donde va todo
 def main():
-    #cartel_veterinaria()
+    cartel_veterinaria()
     menu_principal()
     
     
