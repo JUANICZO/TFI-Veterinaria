@@ -214,7 +214,6 @@ def menu_principal():
         print("4 - Mostrar turnos")
         print("5 - Registrar atencion")
         print("6 - atenciones realizadas")
-        print("7 - estadisticas")
         print("0 - salir del menu")
         decision_menu = (int(input("ingrese una opcion: ")))
    
